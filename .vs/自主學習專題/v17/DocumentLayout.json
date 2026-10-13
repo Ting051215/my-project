@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|c:\\users\\anita\\onedrive\\desktop\\c#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form3_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|solutionrelative:\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form3_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|solutionrelative:\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form5_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|solutionrelative:\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form5_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form4_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|solutionrelative:\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form4_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|solutionrelative:\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form3_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|solutionrelative:\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form3_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form5_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|solutionrelative:\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form5_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form4_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{786C07A5-9BEB-4A3D-AA8B-FF5D307CCFBE}|\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C.csproj|solutionrelative:\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\form4_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form1.cs",
+              "RelativeDocumentMoniker": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form1.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form1.cs",
+              "RelativeToolTip": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:25:48.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3_Register.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form3_Register.cs",
+              "RelativeDocumentMoniker": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form3_Register.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form3_Register.cs",
+              "RelativeToolTip": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form3_Register.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:33:35.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form1.cs",
+              "RelativeDocumentMoniker": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form1.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:10:56.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4_Order.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form4_Order.cs",
+              "RelativeDocumentMoniker": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form4_Order.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form4_Order.cs",
+              "RelativeToolTip": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form4_Order.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:45:28.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5_Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form5_Checkout.cs",
+              "RelativeDocumentMoniker": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form5_Checkout.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form5_Checkout.cs",
+              "RelativeToolTip": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form5_Checkout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:57:44.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3_Register.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form3_Register.cs",
+              "RelativeDocumentMoniker": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form3_Register.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form3_Register.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form3_Register.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:27:58.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5_Checkout.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form5_Checkout.cs",
+              "RelativeDocumentMoniker": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form5_Checkout.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form5_Checkout.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form5_Checkout.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:53:46.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4_Order.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\C#\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form4_Order.cs",
+              "RelativeDocumentMoniker": "\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form4_Order.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form4_Order.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\\u81EA\u4E3B\u5B78\u7FD2\u5C08\u984C\\Form4_Order.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:40:24.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
